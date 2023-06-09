@@ -2,8 +2,8 @@
   "name": "athultest10_todoContainer",
   "type": "ui-container",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/uttahb/athultest10.git",
+    "ssh": "git@github.com:uttahb/athultest10.git",
     "branch": "block_athultest10_todoContainer"
   },
   "language": "js",
