@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "",
+    "ssh": "",
+    "branch": "block_athultest10_removeTodo"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "athultest10_removeTodo",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "foLtZucyeBLYN-uXbJbm9",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "PkczHv_YAGzpjHP8shyMV"
+  ]
+}
